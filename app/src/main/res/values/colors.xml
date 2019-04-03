@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="qb">#dadada</color>
+    <color name="verdeagua">#1fa198</color>
+    <color name="verdeescuro">#0c3b4e</color>
+    <color name="cinzabarra">#929AAB</color>
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#426253</color>
+    <color name="colordark">#000000</color>
+
+
+    <color name="primaryDark">#292b3d</color>
+    <color name="garylight">#fafafa</color>
+    <color name="darkdark">#232F34</color>
+
+</resources>
